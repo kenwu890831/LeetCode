@@ -14,6 +14,6 @@ public:
 
 
 
-        return  n * ( n - 1 ) / 2  - good ;
+        return  n * ( n - 1 ) / 2  - good ; // C n 2
     }
 };
